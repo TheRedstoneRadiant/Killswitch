@@ -1,0 +1,13 @@
+{
+    "tokens": [
+        {
+            "token": "current token",
+            "password": "current password"
+        },
+        {
+            "token": "current token",
+            "password": "current password"
+        }
+    ],
+    "webhook_url": "https://discord.com/xxxxxxxxx/xxxxxxxxx"
+}
