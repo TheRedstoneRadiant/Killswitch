@@ -49,6 +49,11 @@ python3 -m pip install -r requirements.txt
 ###### Note: You will have to run the script as sudo on Linux
 
 ### config.json
+
+- `tokens`: An array of objects containing Discord tokens.
+- `hotkey`: Trigger the script once the hotkey is pressed.
+- `webhook_url`: A Discord webhook URL to send nicely formatted response JSON.
+
 ```json
 {
     "tokens": [
@@ -65,7 +70,3 @@ python3 -m pip install -r requirements.txt
     "webhook_url": "https://discord.com/xxxxxxxxx/xxxxxxxxx"
 }
 ```
-
-- `tokens`: An array of objects containing Discord tokens.
-- `hotkey`: Trigger the script once the hotkey is pressed.
-- `webhook_url`: A Discord webhook URL to send nicely formatted response JSON.
