@@ -10,18 +10,20 @@
   A simple Python script to reset your Discord token on keypress.
   <br><br>
   <a href="https://github.com/TheRedstoneRadiant/Killswitch/blob/master/LICENSE">
-  <img src="https://img.shields.io/badge/license-MIT-blue?logo=gitbook&logoColor=blue">
-</a>
+    <img src="https://img.shields.io/badge/license-MIT-blue?logo=gitbook&logoColor=blue">
+  </a>
 </h4>
 
 <br><br><br><br>
-## Notice: I'll add proxies at 10 stars. Make sure to star the repo!
+<h3 align="center">Notice: I'll add proxies at 10 stars. Make sure to star the repo!</h3>
 <br><br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76220359/170635393-6125c756-8643-4cd5-9ed8-7302d996b70b.gif" alt="Killswitch Usage" width="700"/>
   <img src="https://user-images.githubusercontent.com/76220359/170634160-6c9b6ef4-103a-4582-a695-fd8e82746cd3.png" alt="Killswitch Webhook" width="700"/>
 </p>
+
+<br><br>
 
 ### Installation
 
