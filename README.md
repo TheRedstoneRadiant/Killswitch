@@ -1,7 +1,11 @@
 <h1 align="center">
+  <a href="https://github.com/TheRedstoneRadiant/Killswitch"><img src="https://i.imgur.com/KpQwkQq.png" width=128 height=128 alt="logo"></a>
+  <br>
   Killswitch
   <br>
 </h1>
+
+
 
 <h4 align="center">A simple Python script to reset your Discord token on keypress.</h4>
 
