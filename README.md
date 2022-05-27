@@ -3,19 +3,17 @@
   <br>
   Killswitch
   <br>
+  </a>
 </h1>
 
-
-
-<h4 align="center">A simple Python script to reset your Discord token on keypress.</h4>
-
-<p align="center">
+<h4 align="center">
+  A simple Python script to reset your Discord token on keypress.
+  <br><br>
   <a href="https://github.com/TheRedstoneRadiant/Killswitch/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue?logo=gitbook&logoColor=blue">
-  </a>
-  <a>
-</p>
-  
+  <img src="https://img.shields.io/badge/license-MIT-blue?logo=gitbook&logoColor=blue">
+</a>
+</h4>
+
 <br><br><br><br>
 
 ### Installation
