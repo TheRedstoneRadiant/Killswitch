@@ -62,3 +62,5 @@ python3 -m pip install -r requirements.txt
 - `tokens`: An array of objects containing Discord tokens.
 - `hotkey`: Trigger the script once the hotkey is pressed.
 - `webhook_url`: A Discord webhook URL to send nicely formatted response JSON.
+
+![image](https://user-images.githubusercontent.com/76220359/170634160-6c9b6ef4-103a-4582-a695-fd8e82746cd3.png)
