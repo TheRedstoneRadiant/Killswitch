@@ -15,8 +15,8 @@
 </h4>
 
 <br><br><br><br>
-
-## I'll add proxies at 10 stars. Make sure to star the repo!
+## Notice: I'll add proxies at 10 stars. Make sure to star the repo!
+<br><br>
 
 ### Installation
 
