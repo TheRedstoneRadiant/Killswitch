@@ -18,6 +18,9 @@
 ## Notice: I'll add proxies at 10 stars. Make sure to star the repo!
 <br><br>
 
+<img src="[drawing.jpg](https://user-images.githubusercontent.com/76220359/170635393-6125c756-8643-4cd5-9ed8-7302d996b70b.gif)" alt="Killswitch Usage" width="200"/>
+<img src="[drawing.jpg](https://user-images.githubusercontent.com/76220359/170634160-6c9b6ef4-103a-4582-a695-fd8e82746cd3.png)" alt="Killswitch Webhook" width="200"/>
+
 ### Installation
 
 Make sure you have <a href="https://python.org">Python 3</a> and Git installed.
@@ -62,5 +65,3 @@ python3 -m pip install -r requirements.txt
 - `tokens`: An array of objects containing Discord tokens.
 - `hotkey`: Trigger the script once the hotkey is pressed.
 - `webhook_url`: A Discord webhook URL to send nicely formatted response JSON.
-
-![image](https://user-images.githubusercontent.com/76220359/170634160-6c9b6ef4-103a-4582-a695-fd8e82746cd3.png)
