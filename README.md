@@ -16,6 +16,8 @@
 
 <br><br><br><br>
 
+## I'll add proxies at 10 stars. Make sure to star the repo!
+
 ### Installation
 
 Make sure you have <a href="https://python.org">Python 3</a> and Git installed.
