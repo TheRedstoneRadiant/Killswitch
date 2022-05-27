@@ -4,7 +4,7 @@ if __name__ == "__main__":
     while True:
         key = keyboard.read_key()
 
-        if key == "f1":
+        if key == config["key"]:
             with open("config.json") as file:
                 config = json.load(file)
 

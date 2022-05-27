@@ -9,5 +9,6 @@
             "password": "current password"
         }
     ],
+    "hotkey": "f1",
     "webhook_url": "https://discord.com/xxxxxxxxx/xxxxxxxxx"
 }
