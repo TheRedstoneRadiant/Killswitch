@@ -18,8 +18,8 @@
 ## Notice: I'll add proxies at 10 stars. Make sure to star the repo!
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/76220359/170635393-6125c756-8643-4cd5-9ed8-7302d996b70b.gif" alt="Killswitch Usage" width="200"/>
-<img src="https://user-images.githubusercontent.com/76220359/170634160-6c9b6ef4-103a-4582-a695-fd8e82746cd3.png" alt="Killswitch Webhook" width="200"/>
+<img align="center" src="https://user-images.githubusercontent.com/76220359/170635393-6125c756-8643-4cd5-9ed8-7302d996b70b.gif" alt="Killswitch Usage" width="500"/>
+<img align="center" src="https://user-images.githubusercontent.com/76220359/170634160-6c9b6ef4-103a-4582-a695-fd8e82746cd3.png" alt="Killswitch Webhook" width="500"/>
 
 ### Installation
 
