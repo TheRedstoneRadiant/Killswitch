@@ -19,8 +19,8 @@
 <br><br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76220359/170635393-6125c756-8643-4cd5-9ed8-7302d996b70b.gif" alt="Killswitch Usage" height="500"/>
-  <img src="https://user-images.githubusercontent.com/76220359/170634160-6c9b6ef4-103a-4582-a695-fd8e82746cd3.png" alt="Killswitch Webhook" height="500"/>
+  <img src="https://user-images.githubusercontent.com/76220359/170635393-6125c756-8643-4cd5-9ed8-7302d996b70b.gif" alt="Killswitch Usage" width="700"/>
+  <img src="https://user-images.githubusercontent.com/76220359/170634160-6c9b6ef4-103a-4582-a695-fd8e82746cd3.png" alt="Killswitch Webhook" width="700"/>
 </p>
 
 ### Installation
